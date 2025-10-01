@@ -28,7 +28,7 @@
 ---
 ### 2.1 Análisis Exploratorio del Conjunto de Textos
 
-**Tareas a Realizar:**
+**Realizado:**
 
 * **Conteo de tweets**, **rango de fechas**, frecuencia por año/mes/día.
 * **Longitud de tweets** (*tokens* y caracteres), **distribución del vocabulario**, **top-N palabras/hashtags**, *top-mentions*, **emojis frecuentes**.
