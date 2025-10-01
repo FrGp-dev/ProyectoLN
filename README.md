@@ -30,7 +30,7 @@
 
 **Realizado:**
 
-* **Conteo de tweets**, **rango de fechas**, frecuencia por año/mes/día.
+* **Conteo de tweets**, **frecuencias**.
 * **Longitud de tweets** (*tokens* y caracteres), **distribución del vocabulario**, **top-N palabras/hashtags**, *top-mentions*, **emojis frecuentes**.
 * **Detección de duplicados** y tweets vacíos.
 
