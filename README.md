@@ -33,11 +33,6 @@
 * **Conteo de tweets**, **frecuencias**.
 * **Longitud de tweets** (*tokens* y caracteres), **distribución del vocabulario**, **top-N palabras/hashtags**, *top-mentions*, **emojis frecuentes**.
 * **Detección de duplicados** y tweets vacíos.
-
-**Métricas Descriptivas:**
-
-* $n_{tweets}$, $min_{date}$, $max_{date}$, $mean_{tokens}$, $median_{tokens}$, $vocab_{size}$ (sin preprocesar y tras limpiar/lematizar).
-
 ---
 ### 2.2 Visualizaciones Sugeridas
 
