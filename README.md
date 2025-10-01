@@ -53,7 +53,7 @@ Usamos **Regex en español**, con **tres *pipelines* distintos** según modelo (
 
 1.  **N-gramas:** limpieza $\to$ minúsculas $\to$ tokenización $\to$ lematización $\to$ eliminar puntuacion.
 2.  **Markov:** limpieza (**URLs y menciones**) $\to$ **mantener formato original** (*hashtags*, *emojis*, conjugaciones).
-3.  **LSTM (y Generación):** **limpieza mínima** (eliminar URLs y menciones), **mantener mayúsculas, *hashtags* y *emojis*** para preservar estilo.
+3.  **Redes Neuronales:** **limpieza mínima** (eliminar URLs y menciones), **mantener mayúsculas, *hashtags* y *emojis*** para preservar estilo.
 
 El preprocesado se encuentra en el **Repositorio del proyecto**:
 [https://github.com/FrGp-dev/ProyectoLN/blob/0090adef39927d89e00d025a9175918d78656e95/petrosky.ipynb](https://github.com/FrGp-dev/ProyectoLN/blob/0090adef39927d89e00d025a9175918d78656e95/petrosky.ipynb)
